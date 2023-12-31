@@ -1,0 +1,5 @@
+log_name, 2023-12-31 17:50:11,928,INFO,info
+log_name, 2023-12-31 17:50:11,928,WARNING,warning
+log_name, 2023-12-31 17:50:11,929,ERROR,error
+log_name, 2023-12-31 17:50:11,929,CRITICAL,critical
+log_name, 2023-12-31 17:50:11,930,ERROR,division by zero error
